@@ -10,3 +10,4 @@ master1
 test1
 master2
 i am merge
+checking the changes in the new branch wont see in the old branch
